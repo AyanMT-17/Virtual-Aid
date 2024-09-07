@@ -4,4 +4,5 @@
     background-color: aqua;
     border: 2px solid red;
     border-radius: 10px;
+    box-shadow: 10px 10px 2px red;
 }
