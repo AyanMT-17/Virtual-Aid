@@ -1,0 +1,7 @@
+.but{
+    padding: 10px;
+    margin: 0px;
+    background-color: aqua;
+    border: 2px solid red;
+    border-radius: 10px;
+}
